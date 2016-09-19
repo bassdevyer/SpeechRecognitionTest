@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speech Recognition Test</string>
+    <string name="tap_on_mic">Toca el micrófono</string>
+    <string name="speech_prompt">Ladra...</string>
+</resources>
